@@ -1,0 +1,1 @@
+{"14936015": {"shape": 196, "head": "scalar", "backbone": "VGG", "epochs": 50, "batch_size": 64, "learning rate": 0.001, "circles": 0.5, "squares": 0.3, "real": 0.9, "error1": null, "error2": null, "error3": null, "error4": null}}
